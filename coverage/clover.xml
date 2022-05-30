@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1653841201961" clover="3.2.0">
-  <project timestamp="1653841201961" name="All files">
+<coverage generated="1653921658466" clover="3.2.0">
+  <project timestamp="1653921658466" name="All files">
     <metrics statements="20" coveredstatements="20" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2" elements="30" coveredelements="30" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
     <file name="validator.js" path="C:\Users\Usuario\Documents\LIM018\LIM018-card-validation\src\validator.js">
       <metrics statements="20" coveredstatements="20" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
